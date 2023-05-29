@@ -1,6 +1,10 @@
-# Serverless - AWS REST API with Node.js, Typescript, AWS DynamoDB
+# Serverless - AWS REST API
 
 ## Tech Stack
+
+- Node.js
+- Typescript
+- AWS DynamoDB
 
 Scaffolded with template for zero-config TypeScript support.
 Thanks to [`serverless-typescript`](https://github.com/prisma-labs/serverless-plugin-typescript) plugin:
